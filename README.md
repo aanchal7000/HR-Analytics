@@ -1,1 +1,1 @@
-The HR Analytics Dashboard Power BI project aimed to tansform human resources management byleveaging data analytics to optimize workforce performance,empolyee enagement & talenet management stategies.
+The HR Analytics Dashboard Power BI project aimed to tansform human resources management by leveaging data analytics to optimize workforce performance,empolyee enagement & talent management stategies.
